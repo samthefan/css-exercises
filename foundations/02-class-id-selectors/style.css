@@ -1,0 +1,17 @@
+.odd-numbers,
+.bigger {
+    color: hsl(0, 0%, 0%);
+    background-color: hsl(350, 100%, 88%);
+}
+.bigger {
+    font-size: larger;
+}
+#blue-text {
+    color: hsl(240, 100%, 50%);
+    font-size: larger;
+}
+#green-background {
+    color: hsl(0, 0%, 0%);
+    font-weight: bolder;
+    background-color: hsl(120, 94%, 66%);
+}
